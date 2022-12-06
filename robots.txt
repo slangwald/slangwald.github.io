@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://peakmaven.com/sitemap.xml

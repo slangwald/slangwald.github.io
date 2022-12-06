@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "PeakMaven",
+    "description": "",
+    "home_page_url": "https://peakmaven.com",
+    "feed_url": "https://peakmaven.com/feed.json",
+    "user_comment": "",
+    "icon": "https://peakmaven.com/media/website/default-monochrome-white-Copy-Custom.png",
+    "author": {
+        "name": "Stefan Langwald"
+    },
+    "items": [
+        {
+            "id": "https://peakmaven.com/peakmaven-is-a-cyber-security-consultancy/",
+            "url": "https://peakmaven.com/peakmaven-is-a-cyber-security-consultancy/",
+            "title": "Your partner in all things cyber security.",
+            "summary": "Advisory &amp; Implementation.&nbsp;We support you in the implementation of your IT security and stand by your side with know-how and experience. Training.&nbsp;Expand your technical and organizational know-how and create more security awareness among your employees. Compliance.&nbsp;Is your business is considered critical infrastructure? Do you need&hellip;",
+            "content_html": "\n  <p class=\"align-center\">\n    <span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: 1em; font-weight: var(--font-weight-normal);\"></span>\n  </p>\n\n    <h2 id=\"services\">\n      Services\n    </h2>\n\n  <p>\n    <strong>Advisory &amp; Implementation.&nbsp;</strong>We support you in the implementation of your IT security and stand by your side with know-how and experience.\n  </p>\n\n  <p>\n    <b>Training.</b>&nbsp;Expand your technical and organizational know-how and create more security awareness among your employees. \n  </p>\n\n  <p>\n    <b>Compliance.</b>&nbsp;Is your business is considered critical infrastructure? Do you need to comply with any regulatory framework before the next funding round? We help you to achieve any objective.\n  </p>\n\n  <p>\n    <b>Certification.&nbsp;</b>Build trust and verify information security with official certification. We accompany you through the audit. No matter if ISO 27001, SOC/2, or PCI-DSS.&nbsp;\n  </p>\n\n  <p>\n    <b>Audit.&nbsp;</b>We carry out internal audits for you, at your premises or at your suppliers. And we provide potential for improvement with concrete recommendations.\n  </p>",
+            "author": {
+                "name": "Stefan Langwald"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-12-05T14:10:23+01:00",
+            "date_modified": "2022-12-06T11:43:51+01:00"
+        }
+    ]
+}

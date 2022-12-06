@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>PeakMaven</title>
-    <link href="https://peakmaven.com/feed.xml" rel="self" />
-    <link href="https://peakmaven.com" />
+    <link href="https://www.peakmaven.com/feed.xml" rel="self" />
+    <link href="https://www.peakmaven.com" />
     <updated>2022-12-06T11:43:51+01:00</updated>
     <author>
         <name>Stefan Langwald</name>
     </author>
-    <id>https://peakmaven.com</id>
+    <id>https://www.peakmaven.com</id>
 
     <entry>
         <title>Your partner in all things cyber security.</title>
         <author>
             <name>Stefan Langwald</name>
         </author>
-        <link href="https://peakmaven.com/peakmaven-is-a-cyber-security-consultancy/"/>
-        <id>https://peakmaven.com/peakmaven-is-a-cyber-security-consultancy/</id>
+        <link href="https://www.peakmaven.com/peakmaven-is-a-cyber-security-consultancy/"/>
+        <id>https://www.peakmaven.com/peakmaven-is-a-cyber-security-consultancy/</id>
 
         <updated>2022-12-06T11:43:51+01:00</updated>
             <summary>

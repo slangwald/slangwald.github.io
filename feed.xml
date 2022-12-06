@@ -3,7 +3,7 @@
     <title>PeakMaven</title>
     <link href="https://www.peakmaven.com/feed.xml" rel="self" />
     <link href="https://www.peakmaven.com" />
-    <updated>2022-12-06T11:43:51+01:00</updated>
+    <updated>2022-12-06T15:20:44+01:00</updated>
     <author>
         <name>Stefan Langwald</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://www.peakmaven.com/peakmaven-is-a-cyber-security-consultancy/"/>
         <id>https://www.peakmaven.com/peakmaven-is-a-cyber-security-consultancy/</id>
 
-        <updated>2022-12-06T11:43:51+01:00</updated>
+        <updated>2022-12-06T15:20:44+01:00</updated>
             <summary>
                 <![CDATA[
                     Advisory &amp; Implementation.&nbsp;We support you in the implementation of your IT security and stand by your side with know-how and experience. Training.&nbsp;Expand your technical and organizational know-how and create more security awareness among your employees. Compliance.&nbsp;Is your business is considered critical infrastructure? Do you need&hellip;
@@ -52,6 +52,10 @@
 
   <p>
     <b>Audit.&nbsp;</b>We carry out internal audits for you, at your premises or at your suppliers. And we provide potential for improvement with concrete recommendations.
+  </p>
+
+  <p>
+    <b>GDPR.</b>&nbsp;We help your business in all matters for GDPR compliance.
   </p>
             ]]>
         </content>
